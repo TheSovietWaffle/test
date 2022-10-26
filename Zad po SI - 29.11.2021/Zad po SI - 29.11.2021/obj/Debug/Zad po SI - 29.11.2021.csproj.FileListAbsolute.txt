@@ -1,0 +1,7 @@
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\bin\Debug\Zad po SI - 29.11.2021.exe.config
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\bin\Debug\Zad po SI - 29.11.2021.exe
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\bin\Debug\Zad po SI - 29.11.2021.pdb
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\obj\Debug\Zad po SI - 29.11.2021.csproj.AssemblyReference.cache
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\obj\Debug\Zad po SI - 29.11.2021.csproj.CoreCompileInputs.cache
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\obj\Debug\Zad po SI - 29.11.2021.exe
+D:\Iordan\Даскало 12 клас 2021\Zad po SI - 29.11.2021\Zad po SI - 29.11.2021\obj\Debug\Zad po SI - 29.11.2021.pdb

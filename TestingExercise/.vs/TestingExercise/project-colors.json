@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "257801e9-4f5c-4b56-9c9e-bddf74b2cbc2": {
+      "ProjectGuid": "257801e9-4f5c-4b56-9c9e-bddf74b2cbc2",
+      "DisplayName": "HeroesGame",
+      "ColorIndex": 0
+    },
+    "aa544876-f2f2-4722-8e48-6141af52ebc6": {
+      "ProjectGuid": "aa544876-f2f2-4722-8e48-6141af52ebc6",
+      "DisplayName": "HeroesGame.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

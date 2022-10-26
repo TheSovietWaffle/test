@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadachi_1_2_3_4", "LoopsWhile_DoWhile\Zadachi_1_2_3_4.csproj", "{ECB28DFB-2C05-45E0-A485-39A96289FA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha5", "Zadacha5\Zadacha5.csproj", "{36B084CE-BDBA-439A-8226-4BF7F5C8836B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadachi6_7_8_9", "Zadachi6_7_8_9\Zadachi6_7_8_9.csproj", "{298B1220-F0B9-44BF-9723-ADE09F3B88DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evklid", "Evklid\Evklid.csproj", "{7F7AFA5E-3A88-40FB-9E67-50BC3EA0968D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad6_7_8_9_s_do_while", "Zad6_s_do_while\Zad6_7_8_9_s_do_while.csproj", "{3D4833E9-2212-4E2F-AB81-3DA906CED351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonachiDo200", "FibonachiDo200\FibonachiDo200.csproj", "{E1D2D3D2-8821-48B9-89C2-AFEDD6277EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB28DFB-2C05-45E0-A485-39A96289FA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB28DFB-2C05-45E0-A485-39A96289FA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB28DFB-2C05-45E0-A485-39A96289FA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB28DFB-2C05-45E0-A485-39A96289FA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B084CE-BDBA-439A-8226-4BF7F5C8836B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B084CE-BDBA-439A-8226-4BF7F5C8836B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B084CE-BDBA-439A-8226-4BF7F5C8836B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B084CE-BDBA-439A-8226-4BF7F5C8836B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298B1220-F0B9-44BF-9723-ADE09F3B88DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298B1220-F0B9-44BF-9723-ADE09F3B88DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298B1220-F0B9-44BF-9723-ADE09F3B88DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298B1220-F0B9-44BF-9723-ADE09F3B88DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7AFA5E-3A88-40FB-9E67-50BC3EA0968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7AFA5E-3A88-40FB-9E67-50BC3EA0968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7AFA5E-3A88-40FB-9E67-50BC3EA0968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7AFA5E-3A88-40FB-9E67-50BC3EA0968D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4833E9-2212-4E2F-AB81-3DA906CED351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4833E9-2212-4E2F-AB81-3DA906CED351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4833E9-2212-4E2F-AB81-3DA906CED351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4833E9-2212-4E2F-AB81-3DA906CED351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D2D3D2-8821-48B9-89C2-AFEDD6277EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D2D3D2-8821-48B9-89C2-AFEDD6277EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D2D3D2-8821-48B9-89C2-AFEDD6277EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D2D3D2-8821-48B9-89C2-AFEDD6277EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC52127F-4372-4523-B321-FC93B0960BDB}
+	EndGlobalSection
+EndGlobal

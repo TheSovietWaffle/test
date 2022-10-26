@@ -1,0 +1,14 @@
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.exe.config
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.exe
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.pdb
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\Zadachi_1_2_3_4.csprojResolveAssemblyReference.cache
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\Zadachi_1_2_3_4.csproj.CoreCompileInputs.cache
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\LoopsWhile_DoWhile.exe
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\LoopsWhile_DoWhile.pdb
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.exe.config
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.exe
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\bin\Debug\LoopsWhile_DoWhile.pdb
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\Zadachi_1_2_3_4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\Zadachi_1_2_3_4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\LoopsWhile_DoWhile.exe
+C:\Users\User\Desktop\loops\LoopsWhile_DoWhile\LoopsWhile_DoWhile\obj\Debug\LoopsWhile_DoWhile.pdb

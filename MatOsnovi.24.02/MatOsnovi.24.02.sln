@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatOsnovi.24.02", "MatOsnovi.24.02\MatOsnovi.24.02.csproj", "{067EB2AD-3614-4027-B728-3F1E5C2D5A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067EB2AD-3614-4027-B728-3F1E5C2D5A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067EB2AD-3614-4027-B728-3F1E5C2D5A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067EB2AD-3614-4027-B728-3F1E5C2D5A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067EB2AD-3614-4027-B728-3F1E5C2D5A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B651D34-E004-4A86-911C-AED9FF1AAE0A}
+	EndGlobalSection
+EndGlobal

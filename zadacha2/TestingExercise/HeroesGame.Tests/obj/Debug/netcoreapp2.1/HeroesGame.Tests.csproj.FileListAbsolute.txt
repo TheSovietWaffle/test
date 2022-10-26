@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\zadacha2\TestingExercise\HeroesGame.Tests\obj\Debug\netcoreapp2.1\HeroesGame.Tests.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\zadacha2\TestingExercise\HeroesGame.Tests\obj\Debug\netcoreapp2.1\HeroesGame.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\zadacha2\TestingExercise\HeroesGame.Tests\obj\Debug\netcoreapp2.1\HeroesGame.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\zadacha2\TestingExercise\HeroesGame.Tests\obj\Debug\netcoreapp2.1\HeroesGame.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\zadacha2\TestingExercise\HeroesGame.Tests\obj\Debug\netcoreapp2.1\HeroesGame.Tests.csproj.CoreCompileInputs.cache

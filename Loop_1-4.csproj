@@ -1,0 +1,36 @@
+﻿using System;
+
+namespace Loop_1_4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int s = 0, p = 1, br = 0, min, max;
+            Console.WriteLine("Въведете числа, за край въведете 0!");
+            Console.Write("Въведете поредно числа: ");
+            int x = int.Parse(Console.ReadLine());
+            min = max = x;
+
+            while (x != 0)
+            {
+                br++;
+                s += x;
+                p *= x;
+                if (x < min) min = x;
+                if (x > max) max = x;
+                Console.Write("Въведете поредно число: ");
+                x = int.Parse(Console.ReadLine());
+            }
+            
+            Console.WriteLine("Броят на въведените числа е: {0}", br);
+            Console.WriteLine("Сумата на въведените числа е: {0}", s);
+            Console.WriteLine("Произведението на въведените числа е: {0}", p);
+            Console.WriteLine("Най-голямото от въведените числа е: {0}", max);
+            Console.WriteLine("Най-малкото от въведените числа е: {0}", min);
+
+            Console.ReadKey();
+        }
+    }
+}
+ 

@@ -1,0 +1,6 @@
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\bin\Debug\Zadacha5.exe.config
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\bin\Debug\Zadacha5.exe
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\bin\Debug\Zadacha5.pdb
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\obj\Debug\Zadacha5.csproj.CoreCompileInputs.cache
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\obj\Debug\Zadacha5.exe
+C:\Users\kukit\source\repos\LoopsWhile_DoWhile\Zadacha5\obj\Debug\Zadacha5.pdb
